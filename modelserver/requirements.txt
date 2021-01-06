@@ -1,4 +1,4 @@
-tensorflow
-keras
-Pillow
+flask
 redis
+jsonify
+requests

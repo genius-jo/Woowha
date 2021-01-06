@@ -1,5 +1,4 @@
-tensorflow
-keras
-Pillow
+flask
 redis
-python-multipart
+jsonify
+requests
